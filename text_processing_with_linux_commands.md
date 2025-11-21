@@ -57,21 +57,21 @@ Correct screenshot should contain your github username in the shell, a command a
 
 **Explanation** Write the explanation why the specific command was used.
 
-### 7, Which status code appears most often in access_medium.log? 
+### 7. Which status code appears most often in access_medium.log? 
 
 Put screenshot from Codespaces illustrating the result here.
 Correct screenshot should contain your github username in the shell, a command and the result.
 
 **Explanation** Write the explanation why the specific command was used.
 
-### What is the top 3 most common modules in app_small.log?
+### 8. What is the top 3 most common modules in app_small.log?
 
 Put screenshot from Codespaces illustrating the result here.
 Correct screenshot should contain your github username in the shell, a command and the result.
 
 **Explanation** Write the explanation why the specific command was used.
 
-### Which task appears most often in system_small.log?
+### 9. Which task appears most often in system_small.log?
 
 Put screenshot from Codespaces illustrating the result here.
 Correct screenshot should contain your github username in the shell, a command and the result.
